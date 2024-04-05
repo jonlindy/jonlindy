@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jon! <br/><a href="https://github.com/jonlindy">Full Stack Developer</a>, <a href="https://www.linkedin.com/in/jon-lindemann-75038510b/">Software Engineer Intern</a>, 
+<h1>Hi, I'm Jon! <br/><a href="https://github.com/jonlindy?tab=repositories">Full Stack Developer</a>, <a href="https://www.linkedin.com/in/jon-lindemann-75038510b/">Software Engineer Intern</a>, 
   <a href="https://www.strava.com/athletes/56490025?utm_source=android_share&utm_medium=social&share_sig=WHRU900X1712344632&_branch_match_id=1217333113459823032&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy4pSixL1EssKNDLyczL1jcPKvRxL88oq%2FRMAgCTXn2EIwAAAA%3D%3D">Trail Athlete</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
