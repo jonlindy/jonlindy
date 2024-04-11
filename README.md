@@ -6,7 +6,7 @@
 - <b>Java, JDBC, MySQL</b>
   - [Appointment Scheduler App](https://github.com/jonlindy/Appointment-Scheduler)
 - <b>Python</b>
-  - [Truck Route Scheduler (Data Structures and Algorithms App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Truck Route Scheduler (Data Structures and Algorithms App)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
 <h2> 🔭 I’m currently working on ...</h2>
 
