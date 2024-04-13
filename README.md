@@ -14,11 +14,12 @@
   <li>Tech Stack - Spring Java, Amazon RDS, EC2, ELB</li>
 
 <h2> 🌱 I’m currently learning ... </h2>
-[AWS Certified Developer - Associate]: https://learn.cantrill.io/
+AWS Certified Developer - Associate via https://learn.cantrill.io/
     
 
 <h2> 🤳 Connect with me:</h2>
-[linkedin]: https://www.linkedin.com/in/jon-lindemann-75038510b/
+<a href="https://www.linkedin.com/in/jon-lindemann-75038510b/">My LinkedIn</a>
+
 
 
 
