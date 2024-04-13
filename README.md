@@ -9,8 +9,8 @@
   - [Truck Route Scheduler (Data Structures and Algorithms App)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
 <h2> 🔭 I’m currently working on ...</h2>
-  <li>A backend service for finding local exercise partners via Strava!(FYI: Strava is a exercise social media App)</li>
-  <li>I am using the Strava API to gather data on local athletes to recommend potential exercise buddies.</li>
+  <li>A backend service for finding local exercise partners via Strava! (Strava is an exercise social media app)</li>
+  <li>I am using the <a href="https://developers.strava.com/">Strava API</a> to gather data on local athletes to recommend potential exercise buddies.</li>
   <li>Tech Stack - Spring Java, Amazon RDS, EC2, ELB</li>
 
 <h2> 🌱 I’m currently learning ... </h2>
